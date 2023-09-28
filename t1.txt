@@ -1,2 +1,15 @@
-km
-jhjdn
+cd
+mkdir git
+cd git
+git init git
+//ls -a
+git add. -> it tells git that u want to include yupdate to a particular file in next commit.....       [ (-m) is  message]
+git remote add origin (link of repository) -> an onlne cloud based version of your code.origin is shorthand name of  url.
+
+
+
+# TO COMIT UPDATE
+
+git add.
+git comit -m '...'
+git push origin master
