@@ -13,3 +13,18 @@ git remote add origin (link of repository) -> an onlne cloud based version of yo
 git add.
 git comit -m '...'
 git push origin master
+
+
+
+
+##### 3-10-2023
+
+
+modify: the file has been changed since the last commid is yet to be commited in db.
+
+staged-file is added to vs ctrl or staging area to part of next commit.
+
+commited - file has been safely stord in local db or git db.
+
+
+git status  --2
