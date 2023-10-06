@@ -25,6 +25,26 @@ modify: the file has been changed since the last commid is yet to be commited in
 staged-file is added to vs ctrl or staging area to part of next commit.
 
 commited - file has been safely stord in local db or git db.
+untracked  status - new file is made but not added nor commited .
 
 
+
+
+
+git stage
+
+
+touch-time will change or it will top list the file as latest modify.
+ #
+
+
+command to run
 git status  --2
+
+
+git log -to know history it will tell time with name; most aupdated one will be at top ;
+
+// undo
+
+
+
