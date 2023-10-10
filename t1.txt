@@ -49,3 +49,21 @@ git log -to know history it will tell time with name; most aupdated one will be 
 
 
 //sh
+
+
+
+10 oct;
+
+patch(-p)-> to check changes in a file;
+oneline(--oneline): to view each commit in single line;
+
+
+
+#branching:
+make another line of development;
+
+git branch (name of branch)
+
+git branch -->to see branch;
+
+
