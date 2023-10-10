@@ -11,7 +11,7 @@ git remote add origin (link of repository) -> an onlne cloud based version of yo
 # TO COMIT UPDATE
 
 git add.
-git comit -m '...'
+git commit -m '...'
 git push origin master
 
 
